@@ -1,5 +1,5 @@
 # Work project
-	The main target of this project is control a busi time of workers
+	The main target of this project is control a busy time of workers
 
 How is it working :
 
