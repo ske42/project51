@@ -1,7 +1,8 @@
 # Work project
 	The main target of this project is control a busi time of workers
 
-How is it working 
+How is it working :
+
 	It gas client and server side 
 	Client tell to server when working staion on/off when it lock/unlock
 	Server count time beetwin lock/unlock and remember on/off time
